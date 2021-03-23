@@ -1,13 +1,7 @@
 
 # Docker Handbook
 
-## ติดตั้ง Docker 
+่เรียนรู้การใช้งาน Docker กับ [Nextflow.in.th](https://www.nextflow.in.th) โทรติดต่อ [083-071-3373](tel:0830713373)
 
-- ดาวน์โหลดและติดตั้ง Docker Desktop สำหรับ
-  - [Windows](https://docs.docker.com/docker-for-windows/install/) (Windows 10 เวอร์ชั่น 64-bit: รุ่น Pro, Enterprise, หรือ Education)
-  - [MacOS](https://docs.docker.com/docker-for-mac/install/)
-
-
-## ติดตั้ง Docker Extension for Visual Studio Code
-
-- [ดาวน์โหลด และติดตั้งส่วนเสริมการใช้งาน Docker](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-docker) บน Visual Studio Code
+- [การติดตั้งโปรแกรม](setup.md)
+- [การใช้งาน MongoDB ด้วย Docker](simple-mongo/readme.md)
