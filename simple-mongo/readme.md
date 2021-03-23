@@ -1,6 +1,8 @@
 
 # ดาวน์โหลด และใช้งาน MongoDB ในรูปแบบ Docker
 
+เพื่ออำนวยความสะดวก สามารถติดตั้ง[ส่วนเสริม MongoDB for VSCode](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode)
+
 ## 1. สมัครและเปิดใช้งานบัญชี Docker Hub 
 
 [สมัคร Docker Hub](https://hub.docker.com/signup)
@@ -46,3 +48,13 @@ docker run -p 80:80 -p 27017:27017 mongo
 3. หยุดการทำงานของ Container
 4. รีสตาร์ทการทำงานของ Container
 5. ลบ Container
+
+## 5. ทดสอบเชื่อมต่อ MongoDB Container 
+
+เปิดส่วนเสริม MongoDB for VSCode 
+
+1. เลือก Add Connection 
+
+
+
+2. 
