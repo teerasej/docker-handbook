@@ -63,7 +63,7 @@ docker run -p 80:80 -p 27017:27017 mongo
 <img width="461" alt="2021-03-23_21-45-06" src="https://user-images.githubusercontent.com/85179/112165916-c1503280-8c21-11eb-9244-b0b9b6e1f77d.png">
 
 
-## 6.กรอกรายละเอียดการเชื่อมต่อ MongoDB Container
+## 6. กรอกรายละเอียดการเชื่อมต่อ MongoDB Container
 
 <img width="604" alt="2021-03-23_21-45-35" src="https://user-images.githubusercontent.com/85179/112165931-c44b2300-8c21-11eb-9574-f9e324367416.png">
 
