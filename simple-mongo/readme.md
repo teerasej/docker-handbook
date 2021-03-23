@@ -21,9 +21,12 @@ docker pull mongo
 
 สังเกตว่าจะมีชื่อ Image แสดงขึ้นใน Docker Extension ของ VSCode 
 
-image
+<img width="317" alt="2021-03-23_21-39-10" src="https://user-images.githubusercontent.com/85179/112164252-4fc3b480-8c20-11eb-8ec7-56b1c15cce01.png">
+
 
 ## 3. รันคำสั่งสร้าง Container จาก Image 
+
+เปิด Terminal ใน VSCode และรันคำสั่งเพื่อสร้าง Container และเปิดการทำงาน
 
 ```
 docker run -p 80:80 -p 27017:27017 mongo
@@ -33,6 +36,7 @@ docker run -p 80:80 -p 27017:27017 mongo
 
 ## 4. เช็คการทำงานของ Container ที่รันทำงาน
 
+<img width="317" alt="2021-03-23_21-39-22" src="https://user-images.githubusercontent.com/85179/112164352-65d17500-8c20-11eb-949e-884d2968d5a1.png">
 
 
 **จากส่วนของ Container Panel** เราสามารถ
@@ -41,3 +45,4 @@ docker run -p 80:80 -p 27017:27017 mongo
 2. เปิด shell ที่เชื่อมต่อเข้าไปภายใน Container
 3. หยุดการทำงานของ Container
 4. รีสตาร์ทการทำงานของ Container
+5. ลบ Container
