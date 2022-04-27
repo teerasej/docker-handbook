@@ -5,3 +5,7 @@
 
 - [การติดตั้งโปรแกรม](setup.md)
 - [การใช้งาน MongoDB ด้วย Docker](simple-mongo/readme.md)
+
+## Example 
+
+- [การรันด้วย docker compose](example/docker-compose-friend-api.md)
